@@ -17,8 +17,7 @@ com.github.wxpay.sdk.WXPay The corresponding method is provided under the class�
 |downloadBill|下载对账单 Download statement|
 |report|交易保障 Transaction guarantee|
 |shortUrl|转换短链接 Convert short links|
-|authCodeToOpenid|授权码查询openid (
-Authorization code query openid)|
+|authCodeToOpenid|授权码查询openid (Authorization code query openid)|
 
 * note:
 * The certificate file cannot be placed in the web server virtual directory and should be placed in a directory with access control to prevent others from downloading.
